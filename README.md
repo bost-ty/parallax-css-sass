@@ -1,7 +1,6 @@
-True parallax effect made entirely in CSS.
+True parallax effect made entirely in CSS. Find additional comments in the index.html and style.css files.
 
-For more information, see Pure CSS Parallax Websites by Keith Clark:
-http://keithclark.co.uk/articles/pure-css-parallax-websites/
+
 
 
 
@@ -66,6 +65,7 @@ http://keithclark.co.uk/articles/pure-css-parallax-websites/
 }
 
 
-
-
 ```
+
+For more information, see Pure CSS Parallax Websites by Keith Clark:
+http://keithclark.co.uk/articles/pure-css-parallax-websites/
