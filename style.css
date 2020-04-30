@@ -71,7 +71,7 @@ html {
 }
 
 .fore {
-  transform: translateZ(0);
+  transform: translateZ(2px);
   /* Zero value for translateZ property makes foreground scroll normally.
   No scale value is needed because this layer is not translated.
   NOTE: TranslateZ value can be greater than 0 for extreme foreground. */
