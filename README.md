@@ -1,5 +1,5 @@
 True parallax effect made entirely in CSS. Find additional comments in the index.html and style.css files.
-
+It is intended to be implemented in the future using @mixin and other tools via Sass for reusability across projects.
 
 
 
